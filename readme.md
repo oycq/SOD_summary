@@ -14,7 +14,7 @@
   <td> <img src="/summary/DSS-pytorch/demo1.png" alt="Drawing" style="width: 200px;"/> </td>
 </tr></table>
 
-[Salient-Object-Detection](https://github.com/topics/salient-object-detection)
+[Salient-Object-Detection](https://github.com/Joker316701882/Salient-Object-Detection)
 <table><tr>
 <td> <img src="/summary/Salient-Object-Detection/demo.jpg" alt="Drawing" style="width: 200px;"/> </td>
   <td> <img src="/summary/Salient-Object-Detection/output_demo.jpg" alt="Drawing" style="width: 200px;"/> </td>
