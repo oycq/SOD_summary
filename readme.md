@@ -6,6 +6,14 @@
   <td> <img src="/summary/U-2-Net/demo1U.png" alt="Drawing" style="width: 200px;"/> </td>
 </tr></table>
 
+[BASNET](https://github.com/NathanUA/BASNet)
+<table><tr>
+<td> <img src="/summary/BASNET/demo.jpg" alt="Drawing" style="width: 200px;"/> </td>
+  <td> <img src="/summary/BASNET/demo.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/summary/BASNET/demo1.jpg" alt="Drawing" style="width: 200px;"/> </td>
+  <td> <img src="/summary/BASNET/demo1.png" alt="Drawing" style="width: 200px;"/> </td>
+</tr></table>
+
 [DSS-pytorch](https://github.com/AceCoooool/DSS-pytorch)
 <table><tr>
 <td> <img src="/summary/DSS-pytorch/demo.jpg" alt="Drawing" style="width: 200px;"/> </td>
